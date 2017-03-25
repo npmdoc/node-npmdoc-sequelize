@@ -1,343 +1,343 @@
 <svg height="5438" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5438" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  1.  2017-03-25 14:18:54 +0000     1608 byte  CONTRIBUTING.DOCS.md</tspan>
-<tspan x="10" y="42">  2.  2017-03-25 14:18:54 +0000     7479 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  3.  2017-03-25 14:18:54 +0000      118 byte  Dockerfile</tspan>
-<tspan x="10" y="74">  4.  2017-03-25 14:18:54 +0000     1068 byte  LICENSE</tspan>
-<tspan x="10" y="90">  5.  2017-03-25 14:18:54 +0000     2518 byte  README.md</tspan>
-<tspan x="10" y="106">  6.  2017-03-25 14:18:54 +0000     1468 byte  appveyor-setup.ps1</tspan>
-<tspan x="10" y="122">  7.  2017-03-25 14:18:54 +0000     1016 byte  appveyor.yml</tspan>
-<tspan x="10" y="138">  8.  2017-03-25 14:18:54 +0000    93958 byte  changelog.md</tspan>
-<tspan x="10" y="154">  9.  2017-03-25 14:18:54 +0000       58 byte  codecov.yml</tspan>
-<tspan x="10" y="170"> 10.  2017-03-25 14:18:54 +0000      558 byte  docker-compose.yml</tspan>
-<tspan x="10" y="186"> 11.  2017-03-25 14:18:54 +0000   257158 byte  esdoc/ast/source/associations/base.js.json</tspan>
-<tspan x="10" y="202"> 12.  2017-03-25 14:18:54 +0000  4907699 byte  esdoc/ast/source/associations/belongs-to-many.js.\</tspan>
+<tspan x="10" y="26">  1.  2017-03-25 16:18:22 +0000     1608 byte  CONTRIBUTING.DOCS.md</tspan>
+<tspan x="10" y="42">  2.  2017-03-25 16:18:22 +0000     7479 byte  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  3.  2017-03-25 16:18:22 +0000      118 byte  Dockerfile</tspan>
+<tspan x="10" y="74">  4.  2017-03-25 16:18:22 +0000     1068 byte  LICENSE</tspan>
+<tspan x="10" y="90">  5.  2017-03-25 16:18:22 +0000     2518 byte  README.md</tspan>
+<tspan x="10" y="106">  6.  2017-03-25 16:18:22 +0000     1468 byte  appveyor-setup.ps1</tspan>
+<tspan x="10" y="122">  7.  2017-03-25 16:18:22 +0000     1016 byte  appveyor.yml</tspan>
+<tspan x="10" y="138">  8.  2017-03-25 16:18:22 +0000    93958 byte  changelog.md</tspan>
+<tspan x="10" y="154">  9.  2017-03-25 16:18:22 +0000       58 byte  codecov.yml</tspan>
+<tspan x="10" y="170"> 10.  2017-03-25 16:18:22 +0000      558 byte  docker-compose.yml</tspan>
+<tspan x="10" y="186"> 11.  2017-03-25 16:18:22 +0000   257158 byte  esdoc/ast/source/associations/base.js.json</tspan>
+<tspan x="10" y="202"> 12.  2017-03-25 16:18:22 +0000  4907699 byte  esdoc/ast/source/associations/belongs-to-many.js.\</tspan>
 <tspan x="10" y="218">json</tspan>
-<tspan x="10" y="234"> 13.  2017-03-25 14:18:54 +0000  1329317 byte  esdoc/ast/source/associations/belongs-to.js.json</tspan>
-<tspan x="10" y="250"> 14.  2017-03-25 14:18:54 +0000  2680153 byte  esdoc/ast/source/associations/has-many.js.json</tspan>
-<tspan x="10" y="266"> 15.  2017-03-25 14:18:54 +0000  1542114 byte  esdoc/ast/source/associations/has-one.js.json</tspan>
-<tspan x="10" y="282"> 16.  2017-03-25 14:18:54 +0000   412657 byte  esdoc/ast/source/associations/helpers.js.json</tspan>
-<tspan x="10" y="298"> 17.  2017-03-25 14:18:54 +0000    61945 byte  esdoc/ast/source/associations/index.js.json</tspan>
-<tspan x="10" y="314"> 18.  2017-03-25 14:18:54 +0000   715367 byte  esdoc/ast/source/associations/mixin.js.json</tspan>
-<tspan x="10" y="330"> 19.  2017-03-25 14:18:54 +0000  4151233 byte  esdoc/ast/source/data-types.js.json</tspan>
-<tspan x="10" y="346"> 20.  2017-03-25 14:18:54 +0000  4182151 byte  esdoc/ast/source/data-types/index.js.json</tspan>
-<tspan x="10" y="362"> 21.  2017-03-25 14:18:54 +0000   343878 byte  esdoc/ast/source/deferrable.js.json</tspan>
-<tspan x="10" y="378"> 22.  2017-03-25 14:18:54 +0000  2183020 byte  esdoc/ast/source/dialects/abstract/connection-man\</tspan>
+<tspan x="10" y="234"> 13.  2017-03-25 16:18:22 +0000  1329317 byte  esdoc/ast/source/associations/belongs-to.js.json</tspan>
+<tspan x="10" y="250"> 14.  2017-03-25 16:18:22 +0000  2680153 byte  esdoc/ast/source/associations/has-many.js.json</tspan>
+<tspan x="10" y="266"> 15.  2017-03-25 16:18:22 +0000  1542114 byte  esdoc/ast/source/associations/has-one.js.json</tspan>
+<tspan x="10" y="282"> 16.  2017-03-25 16:18:22 +0000   412657 byte  esdoc/ast/source/associations/helpers.js.json</tspan>
+<tspan x="10" y="298"> 17.  2017-03-25 16:18:22 +0000    61945 byte  esdoc/ast/source/associations/index.js.json</tspan>
+<tspan x="10" y="314"> 18.  2017-03-25 16:18:22 +0000   715367 byte  esdoc/ast/source/associations/mixin.js.json</tspan>
+<tspan x="10" y="330"> 19.  2017-03-25 16:18:22 +0000  4151233 byte  esdoc/ast/source/data-types.js.json</tspan>
+<tspan x="10" y="346"> 20.  2017-03-25 16:18:22 +0000  4182151 byte  esdoc/ast/source/data-types/index.js.json</tspan>
+<tspan x="10" y="362"> 21.  2017-03-25 16:18:22 +0000   343878 byte  esdoc/ast/source/deferrable.js.json</tspan>
+<tspan x="10" y="378"> 22.  2017-03-25 16:18:22 +0000  2183020 byte  esdoc/ast/source/dialects/abstract/connection-man\</tspan>
 <tspan x="10" y="394">ager.js.json</tspan>
-<tspan x="10" y="410"> 23.  2017-03-25 14:18:54 +0000   184603 byte  esdoc/ast/source/dialects/abstract/index.js.json</tspan>
-<tspan x="10" y="426"> 24.  2017-03-25 14:18:54 +0000 17484773 byte  esdoc/ast/source/dialects/abstract/query-generato\</tspan>
+<tspan x="10" y="410"> 23.  2017-03-25 16:18:22 +0000   184603 byte  esdoc/ast/source/dialects/abstract/index.js.json</tspan>
+<tspan x="10" y="426"> 24.  2017-03-25 16:18:22 +0000 17484773 byte  esdoc/ast/source/dialects/abstract/query-generato\</tspan>
 <tspan x="10" y="442">r.js.json</tspan>
-<tspan x="10" y="458"> 25.  2017-03-25 14:18:54 +0000  3866111 byte  esdoc/ast/source/dialects/abstract/query.js.json</tspan>
-<tspan x="10" y="474"> 26.  2017-03-25 14:18:54 +0000   959718 byte  esdoc/ast/source/dialects/mssql/connection-manage\</tspan>
+<tspan x="10" y="458"> 25.  2017-03-25 16:18:22 +0000  3866111 byte  esdoc/ast/source/dialects/abstract/query.js.json</tspan>
+<tspan x="10" y="474"> 26.  2017-03-25 16:18:22 +0000   959718 byte  esdoc/ast/source/dialects/mssql/connection-manage\</tspan>
 <tspan x="10" y="490">r.js.json</tspan>
-<tspan x="10" y="506"> 27.  2017-03-25 14:18:54 +0000  1554114 byte  esdoc/ast/source/dialects/mssql/data-types.js.jso\</tspan>
+<tspan x="10" y="506"> 27.  2017-03-25 16:18:22 +0000  1554114 byte  esdoc/ast/source/dialects/mssql/data-types.js.jso\</tspan>
 <tspan x="10" y="522">n</tspan>
-<tspan x="10" y="538"> 28.  2017-03-25 14:18:54 +0000   293609 byte  esdoc/ast/source/dialects/mssql/index.js.json</tspan>
-<tspan x="10" y="554"> 29.  2017-03-25 14:18:54 +0000  5161293 byte  esdoc/ast/source/dialects/mssql/query-generator.j\</tspan>
+<tspan x="10" y="538"> 28.  2017-03-25 16:18:22 +0000   293609 byte  esdoc/ast/source/dialects/mssql/index.js.json</tspan>
+<tspan x="10" y="554"> 29.  2017-03-25 16:18:22 +0000  5161293 byte  esdoc/ast/source/dialects/mssql/query-generator.j\</tspan>
 <tspan x="10" y="570">s.json</tspan>
-<tspan x="10" y="586"> 30.  2017-03-25 14:18:54 +0000   397822 byte  esdoc/ast/source/dialects/mssql/query-interface.j\</tspan>
+<tspan x="10" y="586"> 30.  2017-03-25 16:18:22 +0000   397822 byte  esdoc/ast/source/dialects/mssql/query-interface.j\</tspan>
 <tspan x="10" y="602">s.json</tspan>
-<tspan x="10" y="618"> 31.  2017-03-25 14:18:54 +0000  2485556 byte  esdoc/ast/source/dialects/mssql/query.js.json</tspan>
-<tspan x="10" y="634"> 32.  2017-03-25 14:18:54 +0000    99200 byte  esdoc/ast/source/dialects/mssql/resource-lock.js.\</tspan>
+<tspan x="10" y="618"> 31.  2017-03-25 16:18:22 +0000  2485556 byte  esdoc/ast/source/dialects/mssql/query.js.json</tspan>
+<tspan x="10" y="634"> 32.  2017-03-25 16:18:22 +0000    99200 byte  esdoc/ast/source/dialects/mssql/resource-lock.js.\</tspan>
 <tspan x="10" y="650">json</tspan>
-<tspan x="10" y="666"> 33.  2017-03-25 14:18:54 +0000  1040064 byte  esdoc/ast/source/dialects/mysql/connection-manage\</tspan>
+<tspan x="10" y="666"> 33.  2017-03-25 16:18:22 +0000  1040064 byte  esdoc/ast/source/dialects/mysql/connection-manage\</tspan>
 <tspan x="10" y="682">r.js.json</tspan>
-<tspan x="10" y="698"> 34.  2017-03-25 14:18:54 +0000  1227927 byte  esdoc/ast/source/dialects/mysql/data-types.js.jso\</tspan>
+<tspan x="10" y="698"> 34.  2017-03-25 16:18:22 +0000  1227927 byte  esdoc/ast/source/dialects/mysql/data-types.js.jso\</tspan>
 <tspan x="10" y="714">n</tspan>
-<tspan x="10" y="730"> 35.  2017-03-25 14:18:54 +0000   267649 byte  esdoc/ast/source/dialects/mysql/index.js.json</tspan>
-<tspan x="10" y="746"> 36.  2017-03-25 14:18:54 +0000  2283703 byte  esdoc/ast/source/dialects/mysql/query-generator.j\</tspan>
+<tspan x="10" y="730"> 35.  2017-03-25 16:18:22 +0000   267649 byte  esdoc/ast/source/dialects/mysql/index.js.json</tspan>
+<tspan x="10" y="746"> 36.  2017-03-25 16:18:22 +0000  2283703 byte  esdoc/ast/source/dialects/mysql/query-generator.j\</tspan>
 <tspan x="10" y="762">s.json</tspan>
-<tspan x="10" y="778"> 37.  2017-03-25 14:18:54 +0000   184019 byte  esdoc/ast/source/dialects/mysql/query-interface.j\</tspan>
+<tspan x="10" y="778"> 37.  2017-03-25 16:18:22 +0000   184019 byte  esdoc/ast/source/dialects/mysql/query-interface.j\</tspan>
 <tspan x="10" y="794">s.json</tspan>
-<tspan x="10" y="810"> 38.  2017-03-25 14:18:54 +0000  1818179 byte  esdoc/ast/source/dialects/mysql/query.js.json</tspan>
-<tspan x="10" y="826"> 39.  2017-03-25 14:18:54 +0000   121694 byte  esdoc/ast/source/dialects/parserStore.js.json</tspan>
-<tspan x="10" y="842"> 40.  2017-03-25 14:18:54 +0000  1342318 byte  esdoc/ast/source/dialects/postgres/connection-man\</tspan>
+<tspan x="10" y="810"> 38.  2017-03-25 16:18:22 +0000  1818179 byte  esdoc/ast/source/dialects/mysql/query.js.json</tspan>
+<tspan x="10" y="826"> 39.  2017-03-25 16:18:22 +0000   121694 byte  esdoc/ast/source/dialects/parserStore.js.json</tspan>
+<tspan x="10" y="842"> 40.  2017-03-25 16:18:22 +0000  1342318 byte  esdoc/ast/source/dialects/postgres/connection-man\</tspan>
 <tspan x="10" y="858">ager.js.json</tspan>
-<tspan x="10" y="874"> 41.  2017-03-25 14:18:54 +0000  2838725 byte  esdoc/ast/source/dialects/postgres/data-types.js.\</tspan>
+<tspan x="10" y="874"> 41.  2017-03-25 16:18:22 +0000  2838725 byte  esdoc/ast/source/dialects/postgres/data-types.js.\</tspan>
 <tspan x="10" y="890">json</tspan>
-<tspan x="10" y="906"> 42.  2017-03-25 14:18:54 +0000    66024 byte  esdoc/ast/source/dialects/postgres/hstore.js.json</tspan>
-<tspan x="10" y="922"> 43.  2017-03-25 14:18:54 +0000   316988 byte  esdoc/ast/source/dialects/postgres/index.js.json</tspan>
-<tspan x="10" y="938"> 44.  2017-03-25 14:18:54 +0000  5725291 byte  esdoc/ast/source/dialects/postgres/query-generato\</tspan>
+<tspan x="10" y="906"> 42.  2017-03-25 16:18:22 +0000    66024 byte  esdoc/ast/source/dialects/postgres/hstore.js.json</tspan>
+<tspan x="10" y="922"> 43.  2017-03-25 16:18:22 +0000   316988 byte  esdoc/ast/source/dialects/postgres/index.js.json</tspan>
+<tspan x="10" y="938"> 44.  2017-03-25 16:18:22 +0000  5725291 byte  esdoc/ast/source/dialects/postgres/query-generato\</tspan>
 <tspan x="10" y="954">r.js.json</tspan>
-<tspan x="10" y="970"> 45.  2017-03-25 14:18:54 +0000  3146789 byte  esdoc/ast/source/dialects/postgres/query.js.json</tspan>
-<tspan x="10" y="986"> 46.  2017-03-25 14:18:54 +0000   477729 byte  esdoc/ast/source/dialects/postgres/range.js.json</tspan>
-<tspan x="10" y="1002"> 47.  2017-03-25 14:18:54 +0000   736426 byte  esdoc/ast/source/dialects/sqlite/connection-manag\</tspan>
+<tspan x="10" y="970"> 45.  2017-03-25 16:18:22 +0000  3146789 byte  esdoc/ast/source/dialects/postgres/query.js.json</tspan>
+<tspan x="10" y="986"> 46.  2017-03-25 16:18:22 +0000   477729 byte  esdoc/ast/source/dialects/postgres/range.js.json</tspan>
+<tspan x="10" y="1002"> 47.  2017-03-25 16:18:22 +0000   736426 byte  esdoc/ast/source/dialects/sqlite/connection-manag\</tspan>
 <tspan x="10" y="1018">er.js.json</tspan>
-<tspan x="10" y="1034"> 48.  2017-03-25 14:18:54 +0000  1523738 byte  esdoc/ast/source/dialects/sqlite/data-types.js.js\</tspan>
+<tspan x="10" y="1034"> 48.  2017-03-25 16:18:22 +0000  1523738 byte  esdoc/ast/source/dialects/sqlite/data-types.js.js\</tspan>
 <tspan x="10" y="1050">on</tspan>
-<tspan x="10" y="1066"> 49.  2017-03-25 14:18:54 +0000   262940 byte  esdoc/ast/source/dialects/sqlite/index.js.json</tspan>
-<tspan x="10" y="1082"> 50.  2017-03-25 14:18:54 +0000  2794104 byte  esdoc/ast/source/dialects/sqlite/query-generator.\</tspan>
+<tspan x="10" y="1066"> 49.  2017-03-25 16:18:22 +0000   262940 byte  esdoc/ast/source/dialects/sqlite/index.js.json</tspan>
+<tspan x="10" y="1082"> 50.  2017-03-25 16:18:22 +0000  2794104 byte  esdoc/ast/source/dialects/sqlite/query-generator.\</tspan>
 <tspan x="10" y="1098">js.json</tspan>
-<tspan x="10" y="1114"> 51.  2017-03-25 14:18:54 +0000   451523 byte  esdoc/ast/source/dialects/sqlite/query-interface.\</tspan>
+<tspan x="10" y="1114"> 51.  2017-03-25 16:18:22 +0000   451523 byte  esdoc/ast/source/dialects/sqlite/query-interface.\</tspan>
 <tspan x="10" y="1130">js.json</tspan>
-<tspan x="10" y="1146"> 52.  2017-03-25 14:18:54 +0000  4075772 byte  esdoc/ast/source/dialects/sqlite/query.js.json</tspan>
-<tspan x="10" y="1162"> 53.  2017-03-25 14:18:54 +0000    10747 byte  esdoc/ast/source/errors.js.json</tspan>
-<tspan x="10" y="1178"> 54.  2017-03-25 14:18:54 +0000  1248582 byte  esdoc/ast/source/errors/index.js.json</tspan>
-<tspan x="10" y="1194"> 55.  2017-03-25 14:18:54 +0000  1266351 byte  esdoc/ast/source/hooks.js.json</tspan>
-<tspan x="10" y="1210"> 56.  2017-03-25 14:18:54 +0000  1762378 byte  esdoc/ast/source/instance-validator.js.json</tspan>
-<tspan x="10" y="1226"> 57.  2017-03-25 14:18:54 +0000   480670 byte  esdoc/ast/source/model-manager.js.json</tspan>
-<tspan x="10" y="1242"> 58.  2017-03-25 14:18:54 +0000 24622967 byte  esdoc/ast/source/model.js.json</tspan>
-<tspan x="10" y="1258"> 59.  2017-03-25 14:18:54 +0000    56587 byte  esdoc/ast/source/model/attribute.js.json</tspan>
-<tspan x="10" y="1274"> 60.  2017-03-25 14:18:54 +0000    33489 byte  esdoc/ast/source/promise.js.json</tspan>
-<tspan x="10" y="1290"> 61.  2017-03-25 14:18:54 +0000  6547813 byte  esdoc/ast/source/query-interface.js.json</tspan>
-<tspan x="10" y="1306"> 62.  2017-03-25 14:18:54 +0000    65410 byte  esdoc/ast/source/query-types.js.json</tspan>
-<tspan x="10" y="1322"> 63.  2017-03-25 14:18:54 +0000  4811663 byte  esdoc/ast/source/sequelize.js.json</tspan>
-<tspan x="10" y="1338"> 64.  2017-03-25 14:18:54 +0000   557979 byte  esdoc/ast/source/sql-string.js.json</tspan>
-<tspan x="10" y="1354"> 65.  2017-03-25 14:18:54 +0000   935504 byte  esdoc/ast/source/transaction.js.json</tspan>
-<tspan x="10" y="1370"> 66.  2017-03-25 14:18:54 +0000  2735200 byte  esdoc/ast/source/utils.js.json</tspan>
-<tspan x="10" y="1386"> 67.  2017-03-25 14:18:54 +0000    64168 byte  esdoc/ast/source/utils/inherits.js.json</tspan>
-<tspan x="10" y="1402"> 68.  2017-03-25 14:18:54 +0000   187221 byte  esdoc/ast/source/utils/logger.js.json</tspan>
-<tspan x="10" y="1418"> 69.  2017-03-25 14:18:54 +0000   301057 byte  esdoc/ast/source/utils/parameter-validator.js.jso\</tspan>
+<tspan x="10" y="1146"> 52.  2017-03-25 16:18:22 +0000  4075772 byte  esdoc/ast/source/dialects/sqlite/query.js.json</tspan>
+<tspan x="10" y="1162"> 53.  2017-03-25 16:18:22 +0000    10747 byte  esdoc/ast/source/errors.js.json</tspan>
+<tspan x="10" y="1178"> 54.  2017-03-25 16:18:22 +0000  1248582 byte  esdoc/ast/source/errors/index.js.json</tspan>
+<tspan x="10" y="1194"> 55.  2017-03-25 16:18:22 +0000  1266351 byte  esdoc/ast/source/hooks.js.json</tspan>
+<tspan x="10" y="1210"> 56.  2017-03-25 16:18:22 +0000  1762378 byte  esdoc/ast/source/instance-validator.js.json</tspan>
+<tspan x="10" y="1226"> 57.  2017-03-25 16:18:22 +0000   480670 byte  esdoc/ast/source/model-manager.js.json</tspan>
+<tspan x="10" y="1242"> 58.  2017-03-25 16:18:22 +0000 24622967 byte  esdoc/ast/source/model.js.json</tspan>
+<tspan x="10" y="1258"> 59.  2017-03-25 16:18:22 +0000    56587 byte  esdoc/ast/source/model/attribute.js.json</tspan>
+<tspan x="10" y="1274"> 60.  2017-03-25 16:18:22 +0000    33489 byte  esdoc/ast/source/promise.js.json</tspan>
+<tspan x="10" y="1290"> 61.  2017-03-25 16:18:22 +0000  6547813 byte  esdoc/ast/source/query-interface.js.json</tspan>
+<tspan x="10" y="1306"> 62.  2017-03-25 16:18:22 +0000    65410 byte  esdoc/ast/source/query-types.js.json</tspan>
+<tspan x="10" y="1322"> 63.  2017-03-25 16:18:22 +0000  4811663 byte  esdoc/ast/source/sequelize.js.json</tspan>
+<tspan x="10" y="1338"> 64.  2017-03-25 16:18:22 +0000   557979 byte  esdoc/ast/source/sql-string.js.json</tspan>
+<tspan x="10" y="1354"> 65.  2017-03-25 16:18:22 +0000   935504 byte  esdoc/ast/source/transaction.js.json</tspan>
+<tspan x="10" y="1370"> 66.  2017-03-25 16:18:22 +0000  2735200 byte  esdoc/ast/source/utils.js.json</tspan>
+<tspan x="10" y="1386"> 67.  2017-03-25 16:18:22 +0000    64168 byte  esdoc/ast/source/utils/inherits.js.json</tspan>
+<tspan x="10" y="1402"> 68.  2017-03-25 16:18:22 +0000   187221 byte  esdoc/ast/source/utils/logger.js.json</tspan>
+<tspan x="10" y="1418"> 69.  2017-03-25 16:18:22 +0000   301057 byte  esdoc/ast/source/utils/parameter-validator.js.jso\</tspan>
 <tspan x="10" y="1434">n</tspan>
-<tspan x="10" y="1450"> 70.  2017-03-25 14:18:54 +0000   515503 byte  esdoc/ast/source/utils/validator-extras.js.json</tspan>
-<tspan x="10" y="1466"> 71.  2017-03-25 14:18:54 +0000    18516 byte  esdoc/class/lib/associations/base.js~Association.\</tspan>
+<tspan x="10" y="1450"> 70.  2017-03-25 16:18:22 +0000   515503 byte  esdoc/ast/source/utils/validator-extras.js.json</tspan>
+<tspan x="10" y="1466"> 71.  2017-03-25 16:18:22 +0000    18516 byte  esdoc/class/lib/associations/base.js~Association.\</tspan>
 <tspan x="10" y="1482">html</tspan>
-<tspan x="10" y="1498"> 72.  2017-03-25 14:18:54 +0000    37677 byte  esdoc/class/lib/associations/belongs-to-many.js~B\</tspan>
+<tspan x="10" y="1498"> 72.  2017-03-25 16:18:22 +0000    37677 byte  esdoc/class/lib/associations/belongs-to-many.js~B\</tspan>
 <tspan x="10" y="1514">elongsToMany.html</tspan>
-<tspan x="10" y="1530"> 73.  2017-03-25 14:18:54 +0000    21065 byte  esdoc/class/lib/associations/belongs-to.js~Belong\</tspan>
+<tspan x="10" y="1530"> 73.  2017-03-25 16:18:22 +0000    21065 byte  esdoc/class/lib/associations/belongs-to.js~Belong\</tspan>
 <tspan x="10" y="1546">sTo.html</tspan>
-<tspan x="10" y="1562"> 74.  2017-03-25 14:18:54 +0000    35121 byte  esdoc/class/lib/associations/has-many.js~HasMany.\</tspan>
+<tspan x="10" y="1562"> 74.  2017-03-25 16:18:22 +0000    35121 byte  esdoc/class/lib/associations/has-many.js~HasMany.\</tspan>
 <tspan x="10" y="1578">html</tspan>
-<tspan x="10" y="1594"> 75.  2017-03-25 14:18:54 +0000    20820 byte  esdoc/class/lib/associations/has-one.js~HasOne.ht\</tspan>
+<tspan x="10" y="1594"> 75.  2017-03-25 16:18:22 +0000    20820 byte  esdoc/class/lib/associations/has-one.js~HasOne.ht\</tspan>
 <tspan x="10" y="1610">ml</tspan>
-<tspan x="10" y="1626"> 76.  2017-03-25 14:18:54 +0000    10241 byte  esdoc/class/lib/errors/index.js~AccessDeniedError\</tspan>
+<tspan x="10" y="1626"> 76.  2017-03-25 16:18:22 +0000    10241 byte  esdoc/class/lib/errors/index.js~AccessDeniedError\</tspan>
 <tspan x="10" y="1642">.html</tspan>
-<tspan x="10" y="1658"> 77.  2017-03-25 14:18:54 +0000     9113 byte  esdoc/class/lib/errors/index.js~AssociationError.\</tspan>
+<tspan x="10" y="1658"> 77.  2017-03-25 16:18:22 +0000     9113 byte  esdoc/class/lib/errors/index.js~AssociationError.\</tspan>
 <tspan x="10" y="1674">html</tspan>
-<tspan x="10" y="1690"> 78.  2017-03-25 14:18:54 +0000    11459 byte  esdoc/class/lib/errors/index.js~BaseError.html</tspan>
-<tspan x="10" y="1706"> 79.  2017-03-25 14:18:54 +0000    11366 byte  esdoc/class/lib/errors/index.js~ConnectionError.h\</tspan>
+<tspan x="10" y="1690"> 78.  2017-03-25 16:18:22 +0000    11459 byte  esdoc/class/lib/errors/index.js~BaseError.html</tspan>
+<tspan x="10" y="1706"> 79.  2017-03-25 16:18:22 +0000    11366 byte  esdoc/class/lib/errors/index.js~ConnectionError.h\</tspan>
 <tspan x="10" y="1722">tml</tspan>
-<tspan x="10" y="1738"> 80.  2017-03-25 14:18:54 +0000    10225 byte  esdoc/class/lib/errors/index.js~ConnectionRefused\</tspan>
+<tspan x="10" y="1738"> 80.  2017-03-25 16:18:22 +0000    10225 byte  esdoc/class/lib/errors/index.js~ConnectionRefused\</tspan>
 <tspan x="10" y="1754">Error.html</tspan>
-<tspan x="10" y="1770"> 81.  2017-03-25 14:18:54 +0000    10227 byte  esdoc/class/lib/errors/index.js~ConnectionTimedOu\</tspan>
+<tspan x="10" y="1770"> 81.  2017-03-25 16:18:22 +0000    10227 byte  esdoc/class/lib/errors/index.js~ConnectionTimedOu\</tspan>
 <tspan x="10" y="1786">tError.html</tspan>
-<tspan x="10" y="1802"> 82.  2017-03-25 14:18:54 +0000    13209 byte  esdoc/class/lib/errors/index.js~DatabaseError.htm\</tspan>
+<tspan x="10" y="1802"> 82.  2017-03-25 16:18:22 +0000    13209 byte  esdoc/class/lib/errors/index.js~DatabaseError.htm\</tspan>
 <tspan x="10" y="1818">l</tspan>
-<tspan x="10" y="1834"> 83.  2017-03-25 14:18:54 +0000     9122 byte  esdoc/class/lib/errors/index.js~EagerLoadingError\</tspan>
+<tspan x="10" y="1834"> 83.  2017-03-25 16:18:22 +0000     9122 byte  esdoc/class/lib/errors/index.js~EagerLoadingError\</tspan>
 <tspan x="10" y="1850">.html</tspan>
-<tspan x="10" y="1866"> 84.  2017-03-25 14:18:54 +0000     9133 byte  esdoc/class/lib/errors/index.js~EmptyResultError.\</tspan>
+<tspan x="10" y="1866"> 84.  2017-03-25 16:18:22 +0000     9133 byte  esdoc/class/lib/errors/index.js~EmptyResultError.\</tspan>
 <tspan x="10" y="1882">html</tspan>
-<tspan x="10" y="1898"> 85.  2017-03-25 14:18:54 +0000    11328 byte  esdoc/class/lib/errors/index.js~ExclusionConstrai\</tspan>
+<tspan x="10" y="1898"> 85.  2017-03-25 16:18:22 +0000    11328 byte  esdoc/class/lib/errors/index.js~ExclusionConstrai\</tspan>
 <tspan x="10" y="1914">ntError.html</tspan>
-<tspan x="10" y="1930"> 86.  2017-03-25 14:18:54 +0000    11332 byte  esdoc/class/lib/errors/index.js~ForeignKeyConstra\</tspan>
+<tspan x="10" y="1930"> 86.  2017-03-25 16:18:22 +0000    11332 byte  esdoc/class/lib/errors/index.js~ForeignKeyConstra\</tspan>
 <tspan x="10" y="1946">intError.html</tspan>
-<tspan x="10" y="1962"> 87.  2017-03-25 14:18:54 +0000    10233 byte  esdoc/class/lib/errors/index.js~HostNotFoundError\</tspan>
+<tspan x="10" y="1962"> 87.  2017-03-25 16:18:22 +0000    10233 byte  esdoc/class/lib/errors/index.js~HostNotFoundError\</tspan>
 <tspan x="10" y="1978">.html</tspan>
-<tspan x="10" y="1994"> 88.  2017-03-25 14:18:54 +0000    10249 byte  esdoc/class/lib/errors/index.js~HostNotReachableE\</tspan>
+<tspan x="10" y="1994"> 88.  2017-03-25 16:18:22 +0000    10249 byte  esdoc/class/lib/errors/index.js~HostNotReachableE\</tspan>
 <tspan x="10" y="2010">rror.html</tspan>
-<tspan x="10" y="2026"> 89.  2017-03-25 14:18:54 +0000     9109 byte  esdoc/class/lib/errors/index.js~InstanceError.htm\</tspan>
+<tspan x="10" y="2026"> 89.  2017-03-25 16:18:22 +0000     9109 byte  esdoc/class/lib/errors/index.js~InstanceError.htm\</tspan>
 <tspan x="10" y="2042">l</tspan>
-<tspan x="10" y="2058"> 90.  2017-03-25 14:18:54 +0000    10270 byte  esdoc/class/lib/errors/index.js~InvalidConnection\</tspan>
+<tspan x="10" y="2058"> 90.  2017-03-25 16:18:22 +0000    10270 byte  esdoc/class/lib/errors/index.js~InvalidConnection\</tspan>
 <tspan x="10" y="2074">Error.html</tspan>
-<tspan x="10" y="2090"> 91.  2017-03-25 14:18:54 +0000    13072 byte  esdoc/class/lib/errors/index.js~OptimisticLockErr\</tspan>
+<tspan x="10" y="2090"> 91.  2017-03-25 16:18:22 +0000    13072 byte  esdoc/class/lib/errors/index.js~OptimisticLockErr\</tspan>
 <tspan x="10" y="2106">or.html</tspan>
-<tspan x="10" y="2122"> 92.  2017-03-25 14:18:54 +0000     9088 byte  esdoc/class/lib/errors/index.js~QueryError.html</tspan>
-<tspan x="10" y="2138"> 93.  2017-03-25 14:18:54 +0000     9115 byte  esdoc/class/lib/errors/index.js~SequelizeScopeErr\</tspan>
+<tspan x="10" y="2122"> 92.  2017-03-25 16:18:22 +0000     9088 byte  esdoc/class/lib/errors/index.js~QueryError.html</tspan>
+<tspan x="10" y="2138"> 93.  2017-03-25 16:18:22 +0000     9115 byte  esdoc/class/lib/errors/index.js~SequelizeScopeErr\</tspan>
 <tspan x="10" y="2154">or.html</tspan>
-<tspan x="10" y="2170"> 94.  2017-03-25 14:18:54 +0000    11289 byte  esdoc/class/lib/errors/index.js~TimeoutError.html</tspan>
-<tspan x="10" y="2186"> 95.  2017-03-25 14:18:54 +0000    11036 byte  esdoc/class/lib/errors/index.js~UniqueConstraintE\</tspan>
+<tspan x="10" y="2170"> 94.  2017-03-25 16:18:22 +0000    11289 byte  esdoc/class/lib/errors/index.js~TimeoutError.html</tspan>
+<tspan x="10" y="2186"> 95.  2017-03-25 16:18:22 +0000    11036 byte  esdoc/class/lib/errors/index.js~UniqueConstraintE\</tspan>
 <tspan x="10" y="2202">rror.html</tspan>
-<tspan x="10" y="2218"> 96.  2017-03-25 14:18:54 +0000    13931 byte  esdoc/class/lib/errors/index.js~ValidationError.h\</tspan>
+<tspan x="10" y="2218"> 96.  2017-03-25 16:18:22 +0000    13931 byte  esdoc/class/lib/errors/index.js~ValidationError.h\</tspan>
 <tspan x="10" y="2234">tml</tspan>
-<tspan x="10" y="2250"> 97.  2017-03-25 14:18:54 +0000     8940 byte  esdoc/class/lib/errors/index.js~ValidationErrorIt\</tspan>
+<tspan x="10" y="2250"> 97.  2017-03-25 16:18:22 +0000     8940 byte  esdoc/class/lib/errors/index.js~ValidationErrorIt\</tspan>
 <tspan x="10" y="2266">em.html</tspan>
-<tspan x="10" y="2282"> 98.  2017-03-25 14:18:54 +0000   271204 byte  esdoc/class/lib/model.js~Model.html</tspan>
-<tspan x="10" y="2298"> 99.  2017-03-25 14:18:54 +0000   118737 byte  esdoc/class/lib/sequelize.js~Sequelize.html</tspan>
-<tspan x="10" y="2314">100.  2017-03-25 14:18:54 +0000    30369 byte  esdoc/class/lib/transaction.js~Transaction.html</tspan>
-<tspan x="10" y="2330">101.  2017-03-25 14:18:54 +0000     2026 byte  esdoc/css/prettify-tomorrow.css</tspan>
-<tspan x="10" y="2346">102.  2017-03-25 14:18:54 +0000    15742 byte  esdoc/css/style.css</tspan>
-<tspan x="10" y="2362">103.  2017-03-25 14:18:54 +0000   928151 byte  esdoc/dump.json</tspan>
-<tspan x="10" y="2378">104.  2017-03-25 14:18:54 +0000     5430 byte  esdoc/favicon.ico</tspan>
-<tspan x="10" y="2394">105.  2017-03-25 14:18:54 +0000     8450 byte  esdoc/file/lib/associations/base.js.html</tspan>
-<tspan x="10" y="2410">106.  2017-03-25 14:18:54 +0000     8472 byte  esdoc/file/lib/associations/belongs-to-many.js.ht\</tspan>
+<tspan x="10" y="2282"> 98.  2017-03-25 16:18:22 +0000   271204 byte  esdoc/class/lib/model.js~Model.html</tspan>
+<tspan x="10" y="2298"> 99.  2017-03-25 16:18:22 +0000   118737 byte  esdoc/class/lib/sequelize.js~Sequelize.html</tspan>
+<tspan x="10" y="2314">100.  2017-03-25 16:18:22 +0000    30369 byte  esdoc/class/lib/transaction.js~Transaction.html</tspan>
+<tspan x="10" y="2330">101.  2017-03-25 16:18:22 +0000     2026 byte  esdoc/css/prettify-tomorrow.css</tspan>
+<tspan x="10" y="2346">102.  2017-03-25 16:18:22 +0000    15742 byte  esdoc/css/style.css</tspan>
+<tspan x="10" y="2362">103.  2017-03-25 16:18:22 +0000   928151 byte  esdoc/dump.json</tspan>
+<tspan x="10" y="2378">104.  2017-03-25 16:18:22 +0000     5430 byte  esdoc/favicon.ico</tspan>
+<tspan x="10" y="2394">105.  2017-03-25 16:18:22 +0000     8450 byte  esdoc/file/lib/associations/base.js.html</tspan>
+<tspan x="10" y="2410">106.  2017-03-25 16:18:22 +0000     8472 byte  esdoc/file/lib/associations/belongs-to-many.js.ht\</tspan>
 <tspan x="10" y="2426">ml</tspan>
-<tspan x="10" y="2442">107.  2017-03-25 14:18:54 +0000     8462 byte  esdoc/file/lib/associations/belongs-to.js.html</tspan>
-<tspan x="10" y="2458">108.  2017-03-25 14:18:54 +0000     8458 byte  esdoc/file/lib/associations/has-many.js.html</tspan>
-<tspan x="10" y="2474">109.  2017-03-25 14:18:54 +0000     8456 byte  esdoc/file/lib/associations/has-one.js.html</tspan>
-<tspan x="10" y="2490">110.  2017-03-25 14:18:54 +0000     8456 byte  esdoc/file/lib/associations/helpers.js.html</tspan>
-<tspan x="10" y="2506">111.  2017-03-25 14:18:54 +0000     8452 byte  esdoc/file/lib/associations/index.js.html</tspan>
-<tspan x="10" y="2522">112.  2017-03-25 14:18:54 +0000     8452 byte  esdoc/file/lib/associations/mixin.js.html</tspan>
-<tspan x="10" y="2538">113.  2017-03-25 14:18:54 +0000     8433 byte  esdoc/file/lib/data-types.js.html</tspan>
-<tspan x="10" y="2554">114.  2017-03-25 14:18:54 +0000    12319 byte  esdoc/file/lib/data-types/index.js.html</tspan>
-<tspan x="10" y="2570">115.  2017-03-25 14:18:54 +0000     8433 byte  esdoc/file/lib/deferrable.js.html</tspan>
-<tspan x="10" y="2586">116.  2017-03-25 14:18:54 +0000     8491 byte  esdoc/file/lib/dialects/abstract/connection-manag\</tspan>
+<tspan x="10" y="2442">107.  2017-03-25 16:18:22 +0000     8462 byte  esdoc/file/lib/associations/belongs-to.js.html</tspan>
+<tspan x="10" y="2458">108.  2017-03-25 16:18:22 +0000     8458 byte  esdoc/file/lib/associations/has-many.js.html</tspan>
+<tspan x="10" y="2474">109.  2017-03-25 16:18:22 +0000     8456 byte  esdoc/file/lib/associations/has-one.js.html</tspan>
+<tspan x="10" y="2490">110.  2017-03-25 16:18:22 +0000     8456 byte  esdoc/file/lib/associations/helpers.js.html</tspan>
+<tspan x="10" y="2506">111.  2017-03-25 16:18:22 +0000     8452 byte  esdoc/file/lib/associations/index.js.html</tspan>
+<tspan x="10" y="2522">112.  2017-03-25 16:18:22 +0000     8452 byte  esdoc/file/lib/associations/mixin.js.html</tspan>
+<tspan x="10" y="2538">113.  2017-03-25 16:18:22 +0000     8433 byte  esdoc/file/lib/data-types.js.html</tspan>
+<tspan x="10" y="2554">114.  2017-03-25 16:18:22 +0000    12319 byte  esdoc/file/lib/data-types/index.js.html</tspan>
+<tspan x="10" y="2570">115.  2017-03-25 16:18:22 +0000     8433 byte  esdoc/file/lib/deferrable.js.html</tspan>
+<tspan x="10" y="2586">116.  2017-03-25 16:18:22 +0000     8491 byte  esdoc/file/lib/dialects/abstract/connection-manag\</tspan>
 <tspan x="10" y="2602">er.js.html</tspan>
-<tspan x="10" y="2618">117.  2017-03-25 14:18:54 +0000     8465 byte  esdoc/file/lib/dialects/abstract/index.js.html</tspan>
-<tspan x="10" y="2634">118.  2017-03-25 14:18:54 +0000     8485 byte  esdoc/file/lib/dialects/abstract/query-generator.\</tspan>
+<tspan x="10" y="2618">117.  2017-03-25 16:18:22 +0000     8465 byte  esdoc/file/lib/dialects/abstract/index.js.html</tspan>
+<tspan x="10" y="2634">118.  2017-03-25 16:18:22 +0000     8485 byte  esdoc/file/lib/dialects/abstract/query-generator.\</tspan>
 <tspan x="10" y="2650">js.html</tspan>
-<tspan x="10" y="2666">119.  2017-03-25 14:18:54 +0000     8465 byte  esdoc/file/lib/dialects/abstract/query.js.html</tspan>
-<tspan x="10" y="2682">120.  2017-03-25 14:18:54 +0000     8485 byte  esdoc/file/lib/dialects/mssql/connection-manager.\</tspan>
+<tspan x="10" y="2666">119.  2017-03-25 16:18:22 +0000     8465 byte  esdoc/file/lib/dialects/abstract/query.js.html</tspan>
+<tspan x="10" y="2682">120.  2017-03-25 16:18:22 +0000     8485 byte  esdoc/file/lib/dialects/mssql/connection-manager.\</tspan>
 <tspan x="10" y="2698">js.html</tspan>
-<tspan x="10" y="2714">121.  2017-03-25 14:18:54 +0000     8469 byte  esdoc/file/lib/dialects/mssql/data-types.js.html</tspan>
-<tspan x="10" y="2730">122.  2017-03-25 14:18:54 +0000     8459 byte  esdoc/file/lib/dialects/mssql/index.js.html</tspan>
-<tspan x="10" y="2746">123.  2017-03-25 14:18:54 +0000     8479 byte  esdoc/file/lib/dialects/mssql/query-generator.js.\</tspan>
+<tspan x="10" y="2714">121.  2017-03-25 16:18:22 +0000     8469 byte  esdoc/file/lib/dialects/mssql/data-types.js.html</tspan>
+<tspan x="10" y="2730">122.  2017-03-25 16:18:22 +0000     8459 byte  esdoc/file/lib/dialects/mssql/index.js.html</tspan>
+<tspan x="10" y="2746">123.  2017-03-25 16:18:22 +0000     8479 byte  esdoc/file/lib/dialects/mssql/query-generator.js.\</tspan>
 <tspan x="10" y="2762">html</tspan>
-<tspan x="10" y="2778">124.  2017-03-25 14:18:54 +0000     8479 byte  esdoc/file/lib/dialects/mssql/query-interface.js.\</tspan>
+<tspan x="10" y="2778">124.  2017-03-25 16:18:22 +0000     8479 byte  esdoc/file/lib/dialects/mssql/query-interface.js.\</tspan>
 <tspan x="10" y="2794">html</tspan>
-<tspan x="10" y="2810">125.  2017-03-25 14:18:54 +0000     8459 byte  esdoc/file/lib/dialects/mssql/query.js.html</tspan>
-<tspan x="10" y="2826">126.  2017-03-25 14:18:54 +0000     8475 byte  esdoc/file/lib/dialects/mssql/resource-lock.js.ht\</tspan>
+<tspan x="10" y="2810">125.  2017-03-25 16:18:22 +0000     8459 byte  esdoc/file/lib/dialects/mssql/query.js.html</tspan>
+<tspan x="10" y="2826">126.  2017-03-25 16:18:22 +0000     8475 byte  esdoc/file/lib/dialects/mssql/resource-lock.js.ht\</tspan>
 <tspan x="10" y="2842">ml</tspan>
-<tspan x="10" y="2858">127.  2017-03-25 14:18:54 +0000     8485 byte  esdoc/file/lib/dialects/mysql/connection-manager.\</tspan>
+<tspan x="10" y="2858">127.  2017-03-25 16:18:22 +0000     8485 byte  esdoc/file/lib/dialects/mysql/connection-manager.\</tspan>
 <tspan x="10" y="2874">js.html</tspan>
-<tspan x="10" y="2890">128.  2017-03-25 14:18:54 +0000     8469 byte  esdoc/file/lib/dialects/mysql/data-types.js.html</tspan>
-<tspan x="10" y="2906">129.  2017-03-25 14:18:54 +0000     8459 byte  esdoc/file/lib/dialects/mysql/index.js.html</tspan>
-<tspan x="10" y="2922">130.  2017-03-25 14:18:54 +0000     8479 byte  esdoc/file/lib/dialects/mysql/query-generator.js.\</tspan>
+<tspan x="10" y="2890">128.  2017-03-25 16:18:22 +0000     8469 byte  esdoc/file/lib/dialects/mysql/data-types.js.html</tspan>
+<tspan x="10" y="2906">129.  2017-03-25 16:18:22 +0000     8459 byte  esdoc/file/lib/dialects/mysql/index.js.html</tspan>
+<tspan x="10" y="2922">130.  2017-03-25 16:18:22 +0000     8479 byte  esdoc/file/lib/dialects/mysql/query-generator.js.\</tspan>
 <tspan x="10" y="2938">html</tspan>
-<tspan x="10" y="2954">131.  2017-03-25 14:18:54 +0000     8479 byte  esdoc/file/lib/dialects/mysql/query-interface.js.\</tspan>
+<tspan x="10" y="2954">131.  2017-03-25 16:18:22 +0000     8479 byte  esdoc/file/lib/dialects/mysql/query-interface.js.\</tspan>
 <tspan x="10" y="2970">html</tspan>
-<tspan x="10" y="2986">132.  2017-03-25 14:18:54 +0000     8459 byte  esdoc/file/lib/dialects/mysql/query.js.html</tspan>
-<tspan x="10" y="3002">133.  2017-03-25 14:18:54 +0000     8456 byte  esdoc/file/lib/dialects/parserStore.js.html</tspan>
-<tspan x="10" y="3018">134.  2017-03-25 14:18:54 +0000     8491 byte  esdoc/file/lib/dialects/postgres/connection-manag\</tspan>
+<tspan x="10" y="2986">132.  2017-03-25 16:18:22 +0000     8459 byte  esdoc/file/lib/dialects/mysql/query.js.html</tspan>
+<tspan x="10" y="3002">133.  2017-03-25 16:18:22 +0000     8456 byte  esdoc/file/lib/dialects/parserStore.js.html</tspan>
+<tspan x="10" y="3018">134.  2017-03-25 16:18:22 +0000     8491 byte  esdoc/file/lib/dialects/postgres/connection-manag\</tspan>
 <tspan x="10" y="3034">er.js.html</tspan>
-<tspan x="10" y="3050">135.  2017-03-25 14:18:54 +0000     8475 byte  esdoc/file/lib/dialects/postgres/data-types.js.ht\</tspan>
+<tspan x="10" y="3050">135.  2017-03-25 16:18:22 +0000     8475 byte  esdoc/file/lib/dialects/postgres/data-types.js.ht\</tspan>
 <tspan x="10" y="3066">ml</tspan>
-<tspan x="10" y="3082">136.  2017-03-25 14:18:54 +0000     8467 byte  esdoc/file/lib/dialects/postgres/hstore.js.html</tspan>
-<tspan x="10" y="3098">137.  2017-03-25 14:18:54 +0000     8465 byte  esdoc/file/lib/dialects/postgres/index.js.html</tspan>
-<tspan x="10" y="3114">138.  2017-03-25 14:18:54 +0000     8485 byte  esdoc/file/lib/dialects/postgres/query-generator.\</tspan>
+<tspan x="10" y="3082">136.  2017-03-25 16:18:22 +0000     8467 byte  esdoc/file/lib/dialects/postgres/hstore.js.html</tspan>
+<tspan x="10" y="3098">137.  2017-03-25 16:18:22 +0000     8465 byte  esdoc/file/lib/dialects/postgres/index.js.html</tspan>
+<tspan x="10" y="3114">138.  2017-03-25 16:18:22 +0000     8485 byte  esdoc/file/lib/dialects/postgres/query-generator.\</tspan>
 <tspan x="10" y="3130">js.html</tspan>
-<tspan x="10" y="3146">139.  2017-03-25 14:18:54 +0000     8465 byte  esdoc/file/lib/dialects/postgres/query.js.html</tspan>
-<tspan x="10" y="3162">140.  2017-03-25 14:18:54 +0000     8465 byte  esdoc/file/lib/dialects/postgres/range.js.html</tspan>
-<tspan x="10" y="3178">141.  2017-03-25 14:18:54 +0000     8487 byte  esdoc/file/lib/dialects/sqlite/connection-manager\</tspan>
+<tspan x="10" y="3146">139.  2017-03-25 16:18:22 +0000     8465 byte  esdoc/file/lib/dialects/postgres/query.js.html</tspan>
+<tspan x="10" y="3162">140.  2017-03-25 16:18:22 +0000     8465 byte  esdoc/file/lib/dialects/postgres/range.js.html</tspan>
+<tspan x="10" y="3178">141.  2017-03-25 16:18:22 +0000     8487 byte  esdoc/file/lib/dialects/sqlite/connection-manager\</tspan>
 <tspan x="10" y="3194">.js.html</tspan>
-<tspan x="10" y="3210">142.  2017-03-25 14:18:54 +0000     8471 byte  esdoc/file/lib/dialects/sqlite/data-types.js.html</tspan>
-<tspan x="10" y="3226">143.  2017-03-25 14:18:54 +0000     8461 byte  esdoc/file/lib/dialects/sqlite/index.js.html</tspan>
-<tspan x="10" y="3242">144.  2017-03-25 14:18:54 +0000     8481 byte  esdoc/file/lib/dialects/sqlite/query-generator.js\</tspan>
+<tspan x="10" y="3210">142.  2017-03-25 16:18:22 +0000     8471 byte  esdoc/file/lib/dialects/sqlite/data-types.js.html</tspan>
+<tspan x="10" y="3226">143.  2017-03-25 16:18:22 +0000     8461 byte  esdoc/file/lib/dialects/sqlite/index.js.html</tspan>
+<tspan x="10" y="3242">144.  2017-03-25 16:18:22 +0000     8481 byte  esdoc/file/lib/dialects/sqlite/query-generator.js\</tspan>
 <tspan x="10" y="3258">.html</tspan>
-<tspan x="10" y="3274">145.  2017-03-25 14:18:54 +0000     8481 byte  esdoc/file/lib/dialects/sqlite/query-interface.js\</tspan>
+<tspan x="10" y="3274">145.  2017-03-25 16:18:22 +0000     8481 byte  esdoc/file/lib/dialects/sqlite/query-interface.js\</tspan>
 <tspan x="10" y="3290">.html</tspan>
-<tspan x="10" y="3306">146.  2017-03-25 14:18:54 +0000     8461 byte  esdoc/file/lib/dialects/sqlite/query.js.html</tspan>
-<tspan x="10" y="3322">147.  2017-03-25 14:18:54 +0000     8425 byte  esdoc/file/lib/errors.js.html</tspan>
-<tspan x="10" y="3338">148.  2017-03-25 14:18:54 +0000     8440 byte  esdoc/file/lib/errors/index.js.html</tspan>
-<tspan x="10" y="3354">149.  2017-03-25 14:18:54 +0000     8423 byte  esdoc/file/lib/hooks.js.html</tspan>
-<tspan x="10" y="3370">150.  2017-03-25 14:18:54 +0000     8449 byte  esdoc/file/lib/instance-validator.js.html</tspan>
-<tspan x="10" y="3386">151.  2017-03-25 14:18:54 +0000     8439 byte  esdoc/file/lib/model-manager.js.html</tspan>
-<tspan x="10" y="3402">152.  2017-03-25 14:18:54 +0000     8423 byte  esdoc/file/lib/model.js.html</tspan>
-<tspan x="10" y="3418">153.  2017-03-25 14:18:54 +0000     8446 byte  esdoc/file/lib/model/attribute.js.html</tspan>
-<tspan x="10" y="3434">154.  2017-03-25 14:18:54 +0000     8427 byte  esdoc/file/lib/promise.js.html</tspan>
-<tspan x="10" y="3450">155.  2017-03-25 14:18:54 +0000     8443 byte  esdoc/file/lib/query-interface.js.html</tspan>
-<tspan x="10" y="3466">156.  2017-03-25 14:18:54 +0000     8435 byte  esdoc/file/lib/query-types.js.html</tspan>
-<tspan x="10" y="3482">157.  2017-03-25 14:18:54 +0000     8431 byte  esdoc/file/lib/sequelize.js.html</tspan>
-<tspan x="10" y="3498">158.  2017-03-25 14:18:54 +0000     8433 byte  esdoc/file/lib/sql-string.js.html</tspan>
-<tspan x="10" y="3514">159.  2017-03-25 14:18:54 +0000     8435 byte  esdoc/file/lib/transaction.js.html</tspan>
-<tspan x="10" y="3530">160.  2017-03-25 14:18:54 +0000     8423 byte  esdoc/file/lib/utils.js.html</tspan>
-<tspan x="10" y="3546">161.  2017-03-25 14:18:54 +0000     8444 byte  esdoc/file/lib/utils/inherits.js.html</tspan>
-<tspan x="10" y="3562">162.  2017-03-25 14:18:54 +0000     8440 byte  esdoc/file/lib/utils/logger.js.html</tspan>
-<tspan x="10" y="3578">163.  2017-03-25 14:18:54 +0000     8466 byte  esdoc/file/lib/utils/parameter-validator.js.html</tspan>
-<tspan x="10" y="3594">164.  2017-03-25 14:18:54 +0000     8460 byte  esdoc/file/lib/utils/validator-extras.js.html</tspan>
-<tspan x="10" y="3610">165.  2017-03-25 14:18:54 +0000    12771 byte  esdoc/function/index.html</tspan>
-<tspan x="10" y="3626">166.  2017-03-25 14:18:54 +0000    28887 byte  esdoc/identifiers.html</tspan>
-<tspan x="10" y="3642">167.  2017-03-25 14:18:54 +0000      799 byte  esdoc/image/badge.svg</tspan>
-<tspan x="10" y="3658">168.  2017-03-25 14:18:54 +0000     5651 byte  esdoc/image/esdoc-logo-mini-black.png</tspan>
-<tspan x="10" y="3674">169.  2017-03-25 14:18:54 +0000     6504 byte  esdoc/image/esdoc-logo-mini.png</tspan>
-<tspan x="10" y="3690">170.  2017-03-25 14:18:54 +0000     4268 byte  esdoc/image/github.png</tspan>
-<tspan x="10" y="3706">171.  2017-03-25 14:18:54 +0000      792 byte  esdoc/image/manual-badge.svg</tspan>
-<tspan x="10" y="3722">172.  2017-03-25 14:18:54 +0000    12704 byte  esdoc/image/search.png</tspan>
-<tspan x="10" y="3738">173.  2017-03-25 14:18:54 +0000   238751 byte  esdoc/index.html</tspan>
-<tspan x="10" y="3754">174.  2017-03-25 14:18:54 +0000      784 byte  esdoc/manual-badge.svg</tspan>
-<tspan x="10" y="3770">175.  2017-03-25 14:18:54 +0000    35817 byte  esdoc/manual/advanced/legacy.html</tspan>
-<tspan x="10" y="3786">176.  2017-03-25 14:18:54 +0000    30988 byte  esdoc/manual/asset/clevertech.png</tspan>
-<tspan x="10" y="3802">177.  2017-03-25 14:18:54 +0000     5569 byte  esdoc/manual/asset/connected-cars.png</tspan>
-<tspan x="10" y="3818">178.  2017-03-25 14:18:54 +0000    17268 byte  esdoc/manual/asset/connected-cars.svg</tspan>
-<tspan x="10" y="3834">179.  2017-03-25 14:18:54 +0000     5764 byte  esdoc/manual/asset/filsh.png</tspan>
-<tspan x="10" y="3850">180.  2017-03-25 14:18:54 +0000    37706 byte  esdoc/manual/asset/logo-small.png</tspan>
-<tspan x="10" y="3866">181.  2017-03-25 14:18:54 +0000    13357 byte  esdoc/manual/asset/logo-snaplytics-green.png</tspan>
-<tspan x="10" y="3882">182.  2017-03-25 14:18:54 +0000    37706 byte  esdoc/manual/asset/logo.png</tspan>
-<tspan x="10" y="3898">183.  2017-03-25 14:18:54 +0000     2106 byte  esdoc/manual/asset/metamarkets.png</tspan>
-<tspan x="10" y="3914">184.  2017-03-25 14:18:54 +0000     8566 byte  esdoc/manual/asset/shutterstock.png</tspan>
-<tspan x="10" y="3930">185.  2017-03-25 14:18:54 +0000     3324 byte  esdoc/manual/asset/walmart-labs-logo.png</tspan>
-<tspan x="10" y="3946">186.  2017-03-25 14:18:54 +0000    34565 byte  esdoc/manual/faq/imprint.html</tspan>
-<tspan x="10" y="3962">187.  2017-03-25 14:18:54 +0000    34670 byte  esdoc/manual/faq/whos-using.html</tspan>
-<tspan x="10" y="3978">188.  2017-03-25 14:18:54 +0000   238750 byte  esdoc/manual/index.html</tspan>
-<tspan x="10" y="3994">189.  2017-03-25 14:18:54 +0000    39289 byte  esdoc/manual/installation/getting-started.html</tspan>
-<tspan x="10" y="4010">190.  2017-03-25 14:18:54 +0000    71893 byte  esdoc/manual/tutorial/associations.html</tspan>
-<tspan x="10" y="4026">191.  2017-03-25 14:18:54 +0000    47373 byte  esdoc/manual/tutorial/hooks.html</tspan>
-<tspan x="10" y="4042">192.  2017-03-25 14:18:54 +0000    48203 byte  esdoc/manual/tutorial/instances.html</tspan>
-<tspan x="10" y="4058">193.  2017-03-25 14:18:54 +0000    45437 byte  esdoc/manual/tutorial/migrations.html</tspan>
-<tspan x="10" y="4074">194.  2017-03-25 14:18:54 +0000    65890 byte  esdoc/manual/tutorial/models-definition.html</tspan>
-<tspan x="10" y="4090">195.  2017-03-25 14:18:54 +0000    60536 byte  esdoc/manual/tutorial/models-usage.html</tspan>
-<tspan x="10" y="4106">196.  2017-03-25 14:18:54 +0000    44120 byte  esdoc/manual/tutorial/querying.html</tspan>
-<tspan x="10" y="4122">197.  2017-03-25 14:18:54 +0000    40050 byte  esdoc/manual/tutorial/raw-queries.html</tspan>
-<tspan x="10" y="4138">198.  2017-03-25 14:18:54 +0000    44272 byte  esdoc/manual/tutorial/scopes.html</tspan>
-<tspan x="10" y="4154">199.  2017-03-25 14:18:54 +0000    44569 byte  esdoc/manual/tutorial/transactions.html</tspan>
-<tspan x="10" y="4170">200.  2017-03-25 14:18:54 +0000     5991 byte  esdoc/package.json</tspan>
-<tspan x="10" y="4186">201.  2017-03-25 14:18:54 +0000      815 byte  esdoc/script/inherited-summary.js</tspan>
-<tspan x="10" y="4202">202.  2017-03-25 14:18:54 +0000      935 byte  esdoc/script/inner-link.js</tspan>
-<tspan x="10" y="4218">203.  2017-03-25 14:18:54 +0000      414 byte  esdoc/script/manual.js</tspan>
-<tspan x="10" y="4234">204.  2017-03-25 14:18:54 +0000      207 byte  esdoc/script/patch-for-local.js</tspan>
-<tspan x="10" y="4250">205.  2017-03-25 14:18:54 +0000    11358 byte  esdoc/script/prettify/Apache-License-2.0.txt</tspan>
-<tspan x="10" y="4266">206.  2017-03-25 14:18:54 +0000    13632 byte  esdoc/script/prettify/prettify.js</tspan>
-<tspan x="10" y="4282">207.  2017-03-25 14:18:54 +0000      759 byte  esdoc/script/pretty-print.js</tspan>
-<tspan x="10" y="4298">208.  2017-03-25 14:18:54 +0000     3541 byte  esdoc/script/search.js</tspan>
-<tspan x="10" y="4314">209.  2017-03-25 14:18:54 +0000    37820 byte  esdoc/script/search_index.js</tspan>
-<tspan x="10" y="4330">210.  2017-03-25 14:18:54 +0000     1759 byte  esdoc/script/test-summary.js</tspan>
-<tspan x="10" y="4346">211.  2017-03-25 14:18:54 +0000    40723 byte  esdoc/source.html</tspan>
-<tspan x="10" y="4362">212.  2017-03-25 14:18:54 +0000      837 byte  esdoc/user/css/0-style.css</tspan>
-<tspan x="10" y="4378">213.  2017-03-25 14:18:54 +0000    34057 byte  esdoc/variable/index.html</tspan>
-<tspan x="10" y="4394">214.  2017-03-25 14:18:54 +0000      107 byte  index.js</tspan>
-<tspan x="10" y="4410">215.  2017-03-25 14:18:54 +0000      743 byte  lib/associations/base.js</tspan>
-<tspan x="10" y="4426">216.  2017-03-25 14:18:54 +0000    27737 byte  lib/associations/belongs-to-many.js</tspan>
-<tspan x="10" y="4442">217.  2017-03-25 14:18:54 +0000     7963 byte  lib/associations/belongs-to.js</tspan>
-<tspan x="10" y="4458">218.  2017-03-25 14:18:54 +0000    17323 byte  lib/associations/has-many.js</tspan>
-<tspan x="10" y="4474">219.  2017-03-25 14:18:54 +0000     8653 byte  lib/associations/has-one.js</tspan>
-<tspan x="10" y="4490">220.  2017-03-25 14:18:54 +0000     1795 byte  lib/associations/helpers.js</tspan>
-<tspan x="10" y="4506">221.  2017-03-25 14:18:54 +0000      278 byte  lib/associations/index.js</tspan>
-<tspan x="10" y="4522">222.  2017-03-25 14:18:54 +0000    19743 byte  lib/associations/mixin.js</tspan>
-<tspan x="10" y="4538">223.  2017-03-25 14:18:54 +0000    26817 byte  lib/data-types.js</tspan>
-<tspan x="10" y="4554">224.  2017-03-25 14:18:54 +0000     3927 byte  lib/deferrable.js</tspan>
-<tspan x="10" y="4570">225.  2017-03-25 14:18:54 +0000     8662 byte  lib/dialects/abstract/connection-manager.js</tspan>
-<tspan x="10" y="4586">226.  2017-03-25 14:18:54 +0000     1537 byte  lib/dialects/abstract/index.js</tspan>
-<tspan x="10" y="4602">227.  2017-03-25 14:18:54 +0000    85298 byte  lib/dialects/abstract/query-generator.js</tspan>
-<tspan x="10" y="4618">228.  2017-03-25 14:18:54 +0000    21234 byte  lib/dialects/abstract/query.js</tspan>
-<tspan x="10" y="4634">229.  2017-03-25 14:18:54 +0000      282 byte  lib/dialects/mariadb/index.js</tspan>
-<tspan x="10" y="4650">230.  2017-03-25 14:18:54 +0000     4313 byte  lib/dialects/mssql/connection-manager.js</tspan>
-<tspan x="10" y="4666">231.  2017-03-25 14:18:54 +0000     6331 byte  lib/dialects/mssql/data-types.js</tspan>
-<tspan x="10" y="4682">232.  2017-03-25 14:18:54 +0000     1555 byte  lib/dialects/mssql/index.js</tspan>
-<tspan x="10" y="4698">233.  2017-03-25 14:18:54 +0000    28634 byte  lib/dialects/mssql/query-generator.js</tspan>
-<tspan x="10" y="4714">234.  2017-03-25 14:18:54 +0000     2715 byte  lib/dialects/mssql/query-interface.js</tspan>
-<tspan x="10" y="4730">235.  2017-03-25 14:18:54 +0000    11078 byte  lib/dialects/mssql/query.js</tspan>
-<tspan x="10" y="4746">236.  2017-03-25 14:18:54 +0000      465 byte  lib/dialects/mssql/resource-lock.js</tspan>
-<tspan x="10" y="4762">237.  2017-03-25 14:18:54 +0000     4536 byte  lib/dialects/mysql/connection-manager.js</tspan>
-<tspan x="10" y="4778">238.  2017-03-25 14:18:54 +0000     3459 byte  lib/dialects/mysql/data-types.js</tspan>
-<tspan x="10" y="4794">239.  2017-03-25 14:18:54 +0000     1467 byte  lib/dialects/mysql/index.js</tspan>
-<tspan x="10" y="4810">240.  2017-03-25 14:18:54 +0000    12593 byte  lib/dialects/mysql/query-generator.js</tspan>
-<tspan x="10" y="4826">241.  2017-03-25 14:18:54 +0000     1441 byte  lib/dialects/mysql/query-interface.js</tspan>
-<tspan x="10" y="4842">242.  2017-03-25 14:18:54 +0000     5871 byte  lib/dialects/mysql/query.js</tspan>
-<tspan x="10" y="4858">243.  2017-03-25 14:18:54 +0000      418 byte  lib/dialects/parserStore.js</tspan>
-<tspan x="10" y="4874">244.  2017-03-25 14:18:54 +0000     6797 byte  lib/dialects/postgres/connection-manager.js</tspan>
-<tspan x="10" y="4890">245.  2017-03-25 14:18:54 +0000    10981 byte  lib/dialects/postgres/data-types.js</tspan>
-<tspan x="10" y="4906">246.  2017-03-25 14:18:54 +0000      334 byte  lib/dialects/postgres/hstore.js</tspan>
-<tspan x="10" y="4922">247.  2017-03-25 14:18:54 +0000     1616 byte  lib/dialects/postgres/index.js</tspan>
-<tspan x="10" y="4938">248.  2017-03-25 14:18:54 +0000    31068 byte  lib/dialects/postgres/query-generator.js</tspan>
-<tspan x="10" y="4954">249.  2017-03-25 14:18:54 +0000    12083 byte  lib/dialects/postgres/query.js</tspan>
-<tspan x="10" y="4970">250.  2017-03-25 14:18:54 +0000     2013 byte  lib/dialects/postgres/range.js</tspan>
-<tspan x="10" y="4986">251.  2017-03-25 14:18:54 +0000     3174 byte  lib/dialects/sqlite/connection-manager.js</tspan>
-<tspan x="10" y="5002">252.  2017-03-25 14:18:54 +0000     5607 byte  lib/dialects/sqlite/data-types.js</tspan>
-<tspan x="10" y="5018">253.  2017-03-25 14:18:54 +0000     1306 byte  lib/dialects/sqlite/index.js</tspan>
-<tspan x="10" y="5034">254.  2017-03-25 14:18:54 +0000    13306 byte  lib/dialects/sqlite/query-generator.js</tspan>
-<tspan x="10" y="5050">255.  2017-03-25 14:18:54 +0000     4039 byte  lib/dialects/sqlite/query-interface.js</tspan>
-<tspan x="10" y="5066">256.  2017-03-25 14:18:54 +0000    13406 byte  lib/dialects/sqlite/query.js</tspan>
-<tspan x="10" y="5082">257.  2017-03-25 14:18:54 +0000     9071 byte  lib/errors.js</tspan>
-<tspan x="10" y="5098">258.  2017-03-25 14:18:54 +0000    13435 byte  lib/hooks.js</tspan>
-<tspan x="10" y="5114">259.  2017-03-25 14:18:54 +0000    11747 byte  lib/instance-validator.js</tspan>
-<tspan x="10" y="5130">260.  2017-03-25 14:18:54 +0000    40297 byte  lib/instance.js</tspan>
-<tspan x="10" y="5146">261.  2017-03-25 14:18:54 +0000     2403 byte  lib/model-manager.js</tspan>
-<tspan x="10" y="5162">262.  2017-03-25 14:18:54 +0000   102037 byte  lib/model.js</tspan>
-<tspan x="10" y="5178">263.  2017-03-25 14:18:54 +0000      250 byte  lib/model/attribute.js</tspan>
-<tspan x="10" y="5194">264.  2017-03-25 14:18:54 +0000     5344 byte  lib/plugins/counter-cache.js</tspan>
-<tspan x="10" y="5210">265.  2017-03-25 14:18:54 +0000     1729 byte  lib/promise.js</tspan>
-<tspan x="10" y="5226">266.  2017-03-25 14:18:54 +0000    31333 byte  lib/query-interface.js</tspan>
-<tspan x="10" y="5242">267.  2017-03-25 14:18:54 +0000      341 byte  lib/query-types.js</tspan>
-<tspan x="10" y="5258">268.  2017-03-25 14:18:54 +0000    59970 byte  lib/sequelize.js</tspan>
-<tspan x="10" y="5274">269.  2017-03-25 14:18:54 +0000     2995 byte  lib/sql-string.js</tspan>
-<tspan x="10" y="5290">270.  2017-03-25 14:18:54 +0000     7920 byte  lib/transaction.js</tspan>
-<tspan x="10" y="5306">271.  2017-03-25 14:18:54 +0000    14466 byte  lib/utils.js</tspan>
-<tspan x="10" y="5322">272.  2017-03-25 14:18:54 +0000     1596 byte  lib/utils/parameter-validator.js</tspan>
-<tspan x="10" y="5338">273.  2017-03-25 14:18:54 +0000     2418 byte  lib/utils/validator-extras.js</tspan>
-<tspan x="10" y="5354">274.  2017-03-25 14:18:54 +0000     1706 byte  mkdocs.yml</tspan>
-<tspan x="10" y="5370">275.  2017-03-25 14:18:54 +0000     8102 byte  package.json</tspan>
-<tspan x="10" y="5386">276.  2017-03-25 14:18:54 +0000      195 byte  sscce_template.js</tspan>
-<tspan x="10" y="5402">277.  2017-03-25 14:18:54 +0000     1160 byte  test-app.js</tspan>
-<tspan x="10" y="5418">278.  2017-03-25 14:18:54 +0000 136781320 byte  .</tspan>
+<tspan x="10" y="3306">146.  2017-03-25 16:18:22 +0000     8461 byte  esdoc/file/lib/dialects/sqlite/query.js.html</tspan>
+<tspan x="10" y="3322">147.  2017-03-25 16:18:22 +0000     8425 byte  esdoc/file/lib/errors.js.html</tspan>
+<tspan x="10" y="3338">148.  2017-03-25 16:18:22 +0000     8440 byte  esdoc/file/lib/errors/index.js.html</tspan>
+<tspan x="10" y="3354">149.  2017-03-25 16:18:22 +0000     8423 byte  esdoc/file/lib/hooks.js.html</tspan>
+<tspan x="10" y="3370">150.  2017-03-25 16:18:22 +0000     8449 byte  esdoc/file/lib/instance-validator.js.html</tspan>
+<tspan x="10" y="3386">151.  2017-03-25 16:18:22 +0000     8439 byte  esdoc/file/lib/model-manager.js.html</tspan>
+<tspan x="10" y="3402">152.  2017-03-25 16:18:22 +0000     8423 byte  esdoc/file/lib/model.js.html</tspan>
+<tspan x="10" y="3418">153.  2017-03-25 16:18:22 +0000     8446 byte  esdoc/file/lib/model/attribute.js.html</tspan>
+<tspan x="10" y="3434">154.  2017-03-25 16:18:22 +0000     8427 byte  esdoc/file/lib/promise.js.html</tspan>
+<tspan x="10" y="3450">155.  2017-03-25 16:18:22 +0000     8443 byte  esdoc/file/lib/query-interface.js.html</tspan>
+<tspan x="10" y="3466">156.  2017-03-25 16:18:22 +0000     8435 byte  esdoc/file/lib/query-types.js.html</tspan>
+<tspan x="10" y="3482">157.  2017-03-25 16:18:22 +0000     8431 byte  esdoc/file/lib/sequelize.js.html</tspan>
+<tspan x="10" y="3498">158.  2017-03-25 16:18:22 +0000     8433 byte  esdoc/file/lib/sql-string.js.html</tspan>
+<tspan x="10" y="3514">159.  2017-03-25 16:18:22 +0000     8435 byte  esdoc/file/lib/transaction.js.html</tspan>
+<tspan x="10" y="3530">160.  2017-03-25 16:18:22 +0000     8423 byte  esdoc/file/lib/utils.js.html</tspan>
+<tspan x="10" y="3546">161.  2017-03-25 16:18:22 +0000     8444 byte  esdoc/file/lib/utils/inherits.js.html</tspan>
+<tspan x="10" y="3562">162.  2017-03-25 16:18:22 +0000     8440 byte  esdoc/file/lib/utils/logger.js.html</tspan>
+<tspan x="10" y="3578">163.  2017-03-25 16:18:22 +0000     8466 byte  esdoc/file/lib/utils/parameter-validator.js.html</tspan>
+<tspan x="10" y="3594">164.  2017-03-25 16:18:22 +0000     8460 byte  esdoc/file/lib/utils/validator-extras.js.html</tspan>
+<tspan x="10" y="3610">165.  2017-03-25 16:18:22 +0000    12771 byte  esdoc/function/index.html</tspan>
+<tspan x="10" y="3626">166.  2017-03-25 16:18:22 +0000    28887 byte  esdoc/identifiers.html</tspan>
+<tspan x="10" y="3642">167.  2017-03-25 16:18:22 +0000      799 byte  esdoc/image/badge.svg</tspan>
+<tspan x="10" y="3658">168.  2017-03-25 16:18:22 +0000     5651 byte  esdoc/image/esdoc-logo-mini-black.png</tspan>
+<tspan x="10" y="3674">169.  2017-03-25 16:18:22 +0000     6504 byte  esdoc/image/esdoc-logo-mini.png</tspan>
+<tspan x="10" y="3690">170.  2017-03-25 16:18:22 +0000     4268 byte  esdoc/image/github.png</tspan>
+<tspan x="10" y="3706">171.  2017-03-25 16:18:22 +0000      792 byte  esdoc/image/manual-badge.svg</tspan>
+<tspan x="10" y="3722">172.  2017-03-25 16:18:22 +0000    12704 byte  esdoc/image/search.png</tspan>
+<tspan x="10" y="3738">173.  2017-03-25 16:18:22 +0000   238751 byte  esdoc/index.html</tspan>
+<tspan x="10" y="3754">174.  2017-03-25 16:18:22 +0000      784 byte  esdoc/manual-badge.svg</tspan>
+<tspan x="10" y="3770">175.  2017-03-25 16:18:22 +0000    35817 byte  esdoc/manual/advanced/legacy.html</tspan>
+<tspan x="10" y="3786">176.  2017-03-25 16:18:22 +0000    30988 byte  esdoc/manual/asset/clevertech.png</tspan>
+<tspan x="10" y="3802">177.  2017-03-25 16:18:22 +0000     5569 byte  esdoc/manual/asset/connected-cars.png</tspan>
+<tspan x="10" y="3818">178.  2017-03-25 16:18:22 +0000    17268 byte  esdoc/manual/asset/connected-cars.svg</tspan>
+<tspan x="10" y="3834">179.  2017-03-25 16:18:22 +0000     5764 byte  esdoc/manual/asset/filsh.png</tspan>
+<tspan x="10" y="3850">180.  2017-03-25 16:18:22 +0000    37706 byte  esdoc/manual/asset/logo-small.png</tspan>
+<tspan x="10" y="3866">181.  2017-03-25 16:18:22 +0000    13357 byte  esdoc/manual/asset/logo-snaplytics-green.png</tspan>
+<tspan x="10" y="3882">182.  2017-03-25 16:18:22 +0000    37706 byte  esdoc/manual/asset/logo.png</tspan>
+<tspan x="10" y="3898">183.  2017-03-25 16:18:22 +0000     2106 byte  esdoc/manual/asset/metamarkets.png</tspan>
+<tspan x="10" y="3914">184.  2017-03-25 16:18:22 +0000     8566 byte  esdoc/manual/asset/shutterstock.png</tspan>
+<tspan x="10" y="3930">185.  2017-03-25 16:18:22 +0000     3324 byte  esdoc/manual/asset/walmart-labs-logo.png</tspan>
+<tspan x="10" y="3946">186.  2017-03-25 16:18:22 +0000    34565 byte  esdoc/manual/faq/imprint.html</tspan>
+<tspan x="10" y="3962">187.  2017-03-25 16:18:22 +0000    34670 byte  esdoc/manual/faq/whos-using.html</tspan>
+<tspan x="10" y="3978">188.  2017-03-25 16:18:22 +0000   238750 byte  esdoc/manual/index.html</tspan>
+<tspan x="10" y="3994">189.  2017-03-25 16:18:22 +0000    39289 byte  esdoc/manual/installation/getting-started.html</tspan>
+<tspan x="10" y="4010">190.  2017-03-25 16:18:22 +0000    71893 byte  esdoc/manual/tutorial/associations.html</tspan>
+<tspan x="10" y="4026">191.  2017-03-25 16:18:22 +0000    47373 byte  esdoc/manual/tutorial/hooks.html</tspan>
+<tspan x="10" y="4042">192.  2017-03-25 16:18:22 +0000    48203 byte  esdoc/manual/tutorial/instances.html</tspan>
+<tspan x="10" y="4058">193.  2017-03-25 16:18:22 +0000    45437 byte  esdoc/manual/tutorial/migrations.html</tspan>
+<tspan x="10" y="4074">194.  2017-03-25 16:18:22 +0000    65890 byte  esdoc/manual/tutorial/models-definition.html</tspan>
+<tspan x="10" y="4090">195.  2017-03-25 16:18:22 +0000    60536 byte  esdoc/manual/tutorial/models-usage.html</tspan>
+<tspan x="10" y="4106">196.  2017-03-25 16:18:22 +0000    44120 byte  esdoc/manual/tutorial/querying.html</tspan>
+<tspan x="10" y="4122">197.  2017-03-25 16:18:22 +0000    40050 byte  esdoc/manual/tutorial/raw-queries.html</tspan>
+<tspan x="10" y="4138">198.  2017-03-25 16:18:22 +0000    44272 byte  esdoc/manual/tutorial/scopes.html</tspan>
+<tspan x="10" y="4154">199.  2017-03-25 16:18:22 +0000    44569 byte  esdoc/manual/tutorial/transactions.html</tspan>
+<tspan x="10" y="4170">200.  2017-03-25 16:18:22 +0000     5991 byte  esdoc/package.json</tspan>
+<tspan x="10" y="4186">201.  2017-03-25 16:18:22 +0000      815 byte  esdoc/script/inherited-summary.js</tspan>
+<tspan x="10" y="4202">202.  2017-03-25 16:18:22 +0000      935 byte  esdoc/script/inner-link.js</tspan>
+<tspan x="10" y="4218">203.  2017-03-25 16:18:22 +0000      414 byte  esdoc/script/manual.js</tspan>
+<tspan x="10" y="4234">204.  2017-03-25 16:18:22 +0000      207 byte  esdoc/script/patch-for-local.js</tspan>
+<tspan x="10" y="4250">205.  2017-03-25 16:18:22 +0000    11358 byte  esdoc/script/prettify/Apache-License-2.0.txt</tspan>
+<tspan x="10" y="4266">206.  2017-03-25 16:18:22 +0000    13632 byte  esdoc/script/prettify/prettify.js</tspan>
+<tspan x="10" y="4282">207.  2017-03-25 16:18:22 +0000      759 byte  esdoc/script/pretty-print.js</tspan>
+<tspan x="10" y="4298">208.  2017-03-25 16:18:22 +0000     3541 byte  esdoc/script/search.js</tspan>
+<tspan x="10" y="4314">209.  2017-03-25 16:18:22 +0000    37820 byte  esdoc/script/search_index.js</tspan>
+<tspan x="10" y="4330">210.  2017-03-25 16:18:22 +0000     1759 byte  esdoc/script/test-summary.js</tspan>
+<tspan x="10" y="4346">211.  2017-03-25 16:18:22 +0000    40723 byte  esdoc/source.html</tspan>
+<tspan x="10" y="4362">212.  2017-03-25 16:18:22 +0000      837 byte  esdoc/user/css/0-style.css</tspan>
+<tspan x="10" y="4378">213.  2017-03-25 16:18:22 +0000    34057 byte  esdoc/variable/index.html</tspan>
+<tspan x="10" y="4394">214.  2017-03-25 16:18:22 +0000      107 byte  index.js</tspan>
+<tspan x="10" y="4410">215.  2017-03-25 16:18:22 +0000      743 byte  lib/associations/base.js</tspan>
+<tspan x="10" y="4426">216.  2017-03-25 16:18:22 +0000    27737 byte  lib/associations/belongs-to-many.js</tspan>
+<tspan x="10" y="4442">217.  2017-03-25 16:18:22 +0000     7963 byte  lib/associations/belongs-to.js</tspan>
+<tspan x="10" y="4458">218.  2017-03-25 16:18:22 +0000    17323 byte  lib/associations/has-many.js</tspan>
+<tspan x="10" y="4474">219.  2017-03-25 16:18:22 +0000     8653 byte  lib/associations/has-one.js</tspan>
+<tspan x="10" y="4490">220.  2017-03-25 16:18:22 +0000     1795 byte  lib/associations/helpers.js</tspan>
+<tspan x="10" y="4506">221.  2017-03-25 16:18:22 +0000      278 byte  lib/associations/index.js</tspan>
+<tspan x="10" y="4522">222.  2017-03-25 16:18:22 +0000    19743 byte  lib/associations/mixin.js</tspan>
+<tspan x="10" y="4538">223.  2017-03-25 16:18:22 +0000    26817 byte  lib/data-types.js</tspan>
+<tspan x="10" y="4554">224.  2017-03-25 16:18:22 +0000     3927 byte  lib/deferrable.js</tspan>
+<tspan x="10" y="4570">225.  2017-03-25 16:18:22 +0000     8662 byte  lib/dialects/abstract/connection-manager.js</tspan>
+<tspan x="10" y="4586">226.  2017-03-25 16:18:22 +0000     1537 byte  lib/dialects/abstract/index.js</tspan>
+<tspan x="10" y="4602">227.  2017-03-25 16:18:22 +0000    85298 byte  lib/dialects/abstract/query-generator.js</tspan>
+<tspan x="10" y="4618">228.  2017-03-25 16:18:22 +0000    21234 byte  lib/dialects/abstract/query.js</tspan>
+<tspan x="10" y="4634">229.  2017-03-25 16:18:22 +0000      282 byte  lib/dialects/mariadb/index.js</tspan>
+<tspan x="10" y="4650">230.  2017-03-25 16:18:22 +0000     4313 byte  lib/dialects/mssql/connection-manager.js</tspan>
+<tspan x="10" y="4666">231.  2017-03-25 16:18:22 +0000     6331 byte  lib/dialects/mssql/data-types.js</tspan>
+<tspan x="10" y="4682">232.  2017-03-25 16:18:22 +0000     1555 byte  lib/dialects/mssql/index.js</tspan>
+<tspan x="10" y="4698">233.  2017-03-25 16:18:22 +0000    28634 byte  lib/dialects/mssql/query-generator.js</tspan>
+<tspan x="10" y="4714">234.  2017-03-25 16:18:22 +0000     2715 byte  lib/dialects/mssql/query-interface.js</tspan>
+<tspan x="10" y="4730">235.  2017-03-25 16:18:22 +0000    11078 byte  lib/dialects/mssql/query.js</tspan>
+<tspan x="10" y="4746">236.  2017-03-25 16:18:22 +0000      465 byte  lib/dialects/mssql/resource-lock.js</tspan>
+<tspan x="10" y="4762">237.  2017-03-25 16:18:22 +0000     4536 byte  lib/dialects/mysql/connection-manager.js</tspan>
+<tspan x="10" y="4778">238.  2017-03-25 16:18:22 +0000     3459 byte  lib/dialects/mysql/data-types.js</tspan>
+<tspan x="10" y="4794">239.  2017-03-25 16:18:22 +0000     1467 byte  lib/dialects/mysql/index.js</tspan>
+<tspan x="10" y="4810">240.  2017-03-25 16:18:22 +0000    12593 byte  lib/dialects/mysql/query-generator.js</tspan>
+<tspan x="10" y="4826">241.  2017-03-25 16:18:22 +0000     1441 byte  lib/dialects/mysql/query-interface.js</tspan>
+<tspan x="10" y="4842">242.  2017-03-25 16:18:22 +0000     5871 byte  lib/dialects/mysql/query.js</tspan>
+<tspan x="10" y="4858">243.  2017-03-25 16:18:22 +0000      418 byte  lib/dialects/parserStore.js</tspan>
+<tspan x="10" y="4874">244.  2017-03-25 16:18:22 +0000     6797 byte  lib/dialects/postgres/connection-manager.js</tspan>
+<tspan x="10" y="4890">245.  2017-03-25 16:18:22 +0000    10981 byte  lib/dialects/postgres/data-types.js</tspan>
+<tspan x="10" y="4906">246.  2017-03-25 16:18:22 +0000      334 byte  lib/dialects/postgres/hstore.js</tspan>
+<tspan x="10" y="4922">247.  2017-03-25 16:18:22 +0000     1616 byte  lib/dialects/postgres/index.js</tspan>
+<tspan x="10" y="4938">248.  2017-03-25 16:18:22 +0000    31068 byte  lib/dialects/postgres/query-generator.js</tspan>
+<tspan x="10" y="4954">249.  2017-03-25 16:18:22 +0000    12083 byte  lib/dialects/postgres/query.js</tspan>
+<tspan x="10" y="4970">250.  2017-03-25 16:18:22 +0000     2013 byte  lib/dialects/postgres/range.js</tspan>
+<tspan x="10" y="4986">251.  2017-03-25 16:18:22 +0000     3174 byte  lib/dialects/sqlite/connection-manager.js</tspan>
+<tspan x="10" y="5002">252.  2017-03-25 16:18:22 +0000     5607 byte  lib/dialects/sqlite/data-types.js</tspan>
+<tspan x="10" y="5018">253.  2017-03-25 16:18:22 +0000     1306 byte  lib/dialects/sqlite/index.js</tspan>
+<tspan x="10" y="5034">254.  2017-03-25 16:18:22 +0000    13306 byte  lib/dialects/sqlite/query-generator.js</tspan>
+<tspan x="10" y="5050">255.  2017-03-25 16:18:22 +0000     4039 byte  lib/dialects/sqlite/query-interface.js</tspan>
+<tspan x="10" y="5066">256.  2017-03-25 16:18:22 +0000    13406 byte  lib/dialects/sqlite/query.js</tspan>
+<tspan x="10" y="5082">257.  2017-03-25 16:18:22 +0000     9071 byte  lib/errors.js</tspan>
+<tspan x="10" y="5098">258.  2017-03-25 16:18:22 +0000    13435 byte  lib/hooks.js</tspan>
+<tspan x="10" y="5114">259.  2017-03-25 16:18:22 +0000    11747 byte  lib/instance-validator.js</tspan>
+<tspan x="10" y="5130">260.  2017-03-25 16:18:22 +0000    40297 byte  lib/instance.js</tspan>
+<tspan x="10" y="5146">261.  2017-03-25 16:18:22 +0000     2403 byte  lib/model-manager.js</tspan>
+<tspan x="10" y="5162">262.  2017-03-25 16:18:22 +0000   102037 byte  lib/model.js</tspan>
+<tspan x="10" y="5178">263.  2017-03-25 16:18:22 +0000      250 byte  lib/model/attribute.js</tspan>
+<tspan x="10" y="5194">264.  2017-03-25 16:18:22 +0000     5344 byte  lib/plugins/counter-cache.js</tspan>
+<tspan x="10" y="5210">265.  2017-03-25 16:18:22 +0000     1729 byte  lib/promise.js</tspan>
+<tspan x="10" y="5226">266.  2017-03-25 16:18:22 +0000    31333 byte  lib/query-interface.js</tspan>
+<tspan x="10" y="5242">267.  2017-03-25 16:18:22 +0000      341 byte  lib/query-types.js</tspan>
+<tspan x="10" y="5258">268.  2017-03-25 16:18:22 +0000    59970 byte  lib/sequelize.js</tspan>
+<tspan x="10" y="5274">269.  2017-03-25 16:18:22 +0000     2995 byte  lib/sql-string.js</tspan>
+<tspan x="10" y="5290">270.  2017-03-25 16:18:22 +0000     7920 byte  lib/transaction.js</tspan>
+<tspan x="10" y="5306">271.  2017-03-25 16:18:22 +0000    14466 byte  lib/utils.js</tspan>
+<tspan x="10" y="5322">272.  2017-03-25 16:18:22 +0000     1596 byte  lib/utils/parameter-validator.js</tspan>
+<tspan x="10" y="5338">273.  2017-03-25 16:18:22 +0000     2418 byte  lib/utils/validator-extras.js</tspan>
+<tspan x="10" y="5354">274.  2017-03-25 16:18:22 +0000     1706 byte  mkdocs.yml</tspan>
+<tspan x="10" y="5370">275.  2017-03-25 16:18:22 +0000     8102 byte  package.json</tspan>
+<tspan x="10" y="5386">276.  2017-03-25 16:18:22 +0000      195 byte  sscce_template.js</tspan>
+<tspan x="10" y="5402">277.  2017-03-25 16:18:22 +0000     1160 byte  test-app.js</tspan>
+<tspan x="10" y="5418">278.  2017-03-25 16:18:22 +0000 136781320 byte  .</tspan>
 </text>
 </svg>
